@@ -1,0 +1,178 @@
+{
+  "resources": [
+    {
+      "website": "Public Apis List",
+      "description": "A list of Public APIS",
+      "type": "API",
+      "url": "https://github.com/public-apis/public-apis"
+    },
+    {
+      "website": "Posthook",
+      "description": "",
+      "type": "API",
+      "url": "https://posthook.io/"
+    },
+    {
+      "website": "Brackeys",
+      "description": "Game Development Tutorials on Youtube",
+      "type": "Game Dev",
+      "url": "https://www.youtube.com/c/Brackeys"
+    },
+    {
+      "website": "Mozilla Docs",
+      "description": "",
+      "type": "Educational / Learning",
+      "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript"
+    },
+    {
+      "website": "Project Learn",
+      "description": "",
+      "type": "Educational / Learning",
+      "url": "https://projectlearn.io/"
+    },
+    {
+      "website": "a11y Coffee",
+      "description": "",
+      "type": "Educational / Learning",
+      "url": "https://a11y.coffee"
+    },
+    {
+      "website": "Loading CSS",
+      "description": "A collection of Loaders and Spinners written in pure CSS",
+      "type": "CSS / Styles",
+      "url": "https://loading.io/css/"
+    },
+    {
+      "website": "Font Pair",
+      "description": "",
+      "type": "CSS / Styles",
+      "url": "https://fontpair.co/"
+    },
+    {
+      "website": "Hero Icons",
+      "description": "",
+      "type": "CSS / Styles",
+      "url": "https://heroicons.dev/"
+    },
+    {
+      "website": "Super Tiny Icons",
+      "description": "",
+      "type": "CSS / Styles",
+      "url": "https://github.com/edent/SuperTinyIcons"
+    },
+    {
+      "website": "Tailwind Builder",
+      "description": "A drag 'n' drop TailwindCSS site builder",
+      "type": "CSS / Styles",
+      "url": "https://tailwind.build/"
+    },
+    {
+      "website": "Bootstrap Builder",
+      "description": "A drag 'n' drop Bootstrap site builder",
+      "type": "CSS / Styles",
+      "url": "https://bootstrapshuffle.com/"
+    },
+    {
+      "website": "CSS Battle",
+      "description": "",
+      "type": "CSS / Styles",
+      "url": "https://cssbattle.dev"
+    },
+    {
+      "website": "Dillinger",
+      "description": "",
+      "type": "Markdown Editors",
+      "url": "https://dillinger.io/"
+    },
+    {
+      "website": "StackEdit",
+      "description": "",
+      "type": "Markdown Editors",
+      "url": "https://stackedit.io/app#"
+    },
+    {
+      "website": "PingPing.io",
+      "description": "Simplest Uptime Monitoring Service",
+      "type": "Web Apps",
+      "url": "https://pingping.io/"
+    },
+    {
+      "website": "Typefully",
+      "description": "Twitter Thread Builder",
+      "type": "Web Apps",
+      "url": "https://typefully.app"
+    },
+    {
+      "website": "Gitbook",
+      "description": "Documentation Online!",
+      "type": "Web Apps",
+      "url": "https://gitbook.com"
+    },
+    {
+      "website": "Mailtrap",
+      "description": "Fake SMTP Testing Server.",
+      "type": "Web Apps",
+      "url": "https://mailtrap.io"
+    },
+    {
+      "website": "Bkmark IO",
+      "description": "Bookmark Manager",
+      "type": "Web Apps",
+      "url": "https://bkmark.io"
+    },
+    {
+      "website": "Webhook Site",
+      "description": "Test, Process and Transform Emails and HTTP requests",
+      "type": "Web Apps",
+      "url": "https://webhook.site/"
+    },
+    {
+      "website": "GUI JS",
+      "description": "A desktop app for generating and managing projects",
+      "type": "Desktop Apps",
+      "url": "https://guijs.dev"
+    },
+    {
+      "website": "free-for.dev",
+      "description": "",
+      "type": "Misc",
+      "url": "https://free-for.dev/"
+    },
+    {
+      "website": "App Mockup",
+      "description": "",
+      "type": "Misc",
+      "url": "https://app-mockup.com/"
+    },
+    {
+      "website": "Built With",
+      "description": "",
+      "type": "Misc",
+      "url": "https://builtwith.com/"
+    },
+    {
+      "website": "What CMS",
+      "description": "",
+      "type": "Misc",
+      "url": "https://whatcms.org/"
+    },
+    {
+      "website": "How Big is my Browser?",
+      "description": "",
+      "type": "Misc",
+      "url": "http://howbigismybrowser.com/"
+    },
+    {
+      "website": "Lorem Ipsum Generator",
+      "description": "",
+      "type": "Misc",
+      "url": "https://jaspervdj.be/lorem-markdownum/"
+    },
+    {
+      "website": "Domcomp",
+      "description": "A Domain name price comparison website",
+      "type": "Misc",
+      "url": "https://domcomp.com"
+    }
+  ]
+}
