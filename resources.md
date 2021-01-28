@@ -13,6 +13,8 @@
 
 [a11y Coffee](https://a11y.coffee)
 
+[Python Programming](https://pythonprogramming.net)
+
 ## CSS / Styles
 [Loading CSS](https://loading.io/css/)
 
@@ -64,4 +66,7 @@
 
 [Domcomp](https://domcomp.com)
 
+## Youtube/Twitch Channels
+
+[Sentdex](https://www.youtube.com/user/sentdex)
 
