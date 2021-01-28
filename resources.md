@@ -70,3 +70,4 @@
 
 [Sentdex](https://www.youtube.com/user/sentdex)
 
+[Max DeMaio](https://www.youtube.com/channel/UCXzTmvY30ODYPrpVImJEVBQ)
