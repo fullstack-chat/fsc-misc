@@ -1,11 +1,3 @@
-## APIs
-[Public Apis List](https://github.com/public-apis/public-apis)
-
-[Posthook](https://posthook.io/)
-
-## Game Dev
-[Brackeys](https://www.youtube.com/c/Brackeys)
-
 ## Educational / Learning
 [Mozilla Docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
@@ -14,6 +6,19 @@
 [a11y Coffee](https://a11y.coffee)
 
 [Python Programming](https://pythonprogramming.net)
+
+## Youtube/Twitch Channels
+
+[Sentdex](https://www.youtube.com/user/sentdex)
+
+[Max DeMaio](https://www.youtube.com/channel/UCXzTmvY30ODYPrpVImJEVBQ)
+
+[Brackeys](https://www.youtube.com/c/Brackeys)
+
+## APIs
+[Public Apis List](https://github.com/public-apis/public-apis)
+
+[Posthook](https://posthook.io/)
 
 ## CSS / Styles
 [Loading CSS](https://loading.io/css/)
@@ -66,8 +71,3 @@
 
 [Domcomp](https://domcomp.com)
 
-## Youtube/Twitch Channels
-
-[Sentdex](https://www.youtube.com/user/sentdex)
-
-[Max DeMaio](https://www.youtube.com/channel/UCXzTmvY30ODYPrpVImJEVBQ)
